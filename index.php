@@ -2,7 +2,7 @@
 # Prise du temps actuel au début du script
 $time_start = microtime(true);
 
-#Travis 2
+#Travis
 
 # Définition des variables globales du script
 define('CHEMIN_VUES','views/');
