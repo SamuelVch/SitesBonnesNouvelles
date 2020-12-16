@@ -12,7 +12,7 @@
 				<a href="index.php">
 				<img src="<?php echo CHEMIN_VUES ?>images/smiley.jpg" alt="Sourire">
 				</a>
-				Un site de Bonnes Nouvelles
+				Un site de Bonnes Nouvelles on Azure
 			</h1>
 			<p class="sous-titre">
 				<strong>Institut Paul Lambin</strong>:: 1ère année du baccalauréat en informatique
